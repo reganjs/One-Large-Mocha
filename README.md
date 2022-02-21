@@ -1,6 +1,6 @@
 # One-Large-Mocha
 
-A repository used to further understand unit testing using Mocha &amp; Chai. 
+## A repository used to further understand unit testing using Mocha &amp; Chai. 
 
 To further understand unit testing I had to solve a problem. A shouldBuyCar.js and carTest file was implemented which solves the following below.
 
